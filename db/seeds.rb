@@ -29,3 +29,4 @@ Signup.create(camper_id: camper5.id, activity_id: activity7.id, time: 11)
 Signup.create(camper_id: camper3.id, activity_id: activity4.id, time: 12)
 
 puts "✅ Done seeding!"
+
